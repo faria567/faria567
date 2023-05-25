@@ -13,7 +13,7 @@ Skills: LARAVEL/ REACT / JS / HTML / CSS/WORDPRESS/PHP/BOOTSTRAP
 - 🌱 I’m currently learning LARAVEL 
 - 👯 I’m looking to collaborate on GITHUB 
 - 💬 Ask me about WEB DEVELOPMENT 
-- 📫 How to reach me: linkedin.com/in/mossammat-faria-6aaa17194/ 
+- 📫 How to reach me:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faria567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mossammatfaria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mossammatfaria1200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21903285/mossammat-faria)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://faria567.github.io/Portfolio_Site/)  
 
 
 
@@ -25,7 +25,6 @@ Skills: LARAVEL/ REACT / JS / HTML / CSS/WORDPRESS/PHP/BOOTSTRAP
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faria567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mossammatfaria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mossammatfaria1200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21903285/mossammat-faria)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://faria567.github.io/Portfolio_Site/)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faria567)](https://github.com/ryo-ma/github-profile-trophy)
