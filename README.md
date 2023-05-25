@@ -1,6 +1,8 @@
 
 ![web developer](https://media.licdn.com/dms/image/D5616AQHUGpfoXwI04Q/profile-displaybackgroundimage-shrink_350_1400/0/1683399434466?e=1690416000&v=beta&t=kjgJpQBo0ItlAPfr7G7V3zezCxZHkisr-_qxo_S41bU)
 
+![Profile views](https://gpvc.arturio.dev/faria567) 
+
 ### Hi there 👋, my name is Mossammat Faria
 #### web developer
 
@@ -40,4 +42,4 @@ Skills: LARAVEL/ REACT / JS / HTML / CSS/WORDPRESS/PHP/BOOTSTRAP
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=faria567)  
 
-![Profile views](https://gpvc.arturio.dev/faria567)  
+ 
