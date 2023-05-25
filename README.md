@@ -29,10 +29,12 @@ Skills: LARAVEL/ REACT / JS / HTML / CSS/WORDPRESS/PHP/BOOTSTRAP
 
 
 
-🏆 GitHub Trophies
+🏆 GitHub Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=faria567)](https://github.com/ryo-ma/github-profile-trophy)
 
-📊 GitHub Stats:
+📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faria567)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faria567&show_icons=true)  
